@@ -1,0 +1,52 @@
+D:\Windows form\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\Windows form\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\Windows form\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.Form1.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.cache
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.exe
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.pdb
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctor.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctor2.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctorView.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctoredit.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctordelete.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatient1.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientAdd.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientView.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientEdit.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientDelete.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointment.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentMain.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentView.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentDel.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormWard.resources
+D:\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormWardAdd.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\5th SEM\PT\Windows form\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\5th SEM\PT\Windows form\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.Form1.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointment.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentDel.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentMain.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormAppointmentView.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctor.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctor2.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctordelete.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctoredit.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormDoctorView.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatient1.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientAdd.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientDelete.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientEdit.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormPatientView.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormWard.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.FormWardAdd.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.cache
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.exe
+D:\5th SEM\PT\Windows form\HospitalManagement\obj\Debug\HospitalManagement.pdb
